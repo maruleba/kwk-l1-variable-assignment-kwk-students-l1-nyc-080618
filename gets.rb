@@ -1,3 +1,3 @@
 puts "Hello! What's your name"
-name = gets.champ
+name = gets.chomp
 puts "Oh hi #{name}! That's a beautiful name!"
